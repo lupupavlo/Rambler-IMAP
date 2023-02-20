@@ -1,7 +1,9 @@
 Description
+
 This is a Python script that can be used to fetch the details of the first 50 emails from the "inbox" of multiple email accounts using IMAP protocol. The script reads the email accounts and passwords from a file named "emails.txt" and stores the email address, sender and subject of each email in a file named "email_result.txt". The script uses the imaplib module to connect to an email server and fetch the email details.
 
 Instructions
+
 To use this script, follow these steps:
 
 Make sure you have Python 3 installed on your computer. If not, download and install it from the official Python website: https://www.python.org/downloads/
